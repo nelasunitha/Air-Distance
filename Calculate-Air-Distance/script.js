@@ -1,4 +1,4 @@
-// Get the necessary DOM elements
+// These are DOM Elementss
 const pointAInput = document.getElementById('pointA');
 const pointBInput = document.getElementById('pointB');
 const calculateBtn = document.getElementById('calculateBtn');
